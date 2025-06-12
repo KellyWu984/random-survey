@@ -8,10 +8,10 @@
 
 
 const urls = [
-	'https://forms.gle/e5jHcuurR4QgtL9b8',
-	'https://forms.gle/fmWtKYqKTJYx5Qs66',
-	'https://forms.gle/oDK3TUmhHRy3DH9i7',
-	'https://forms.gle/jiVzAiySGo8Znoai8',
-	'https://forms.gle/ovd6DLFxXt8BZdR1A',
-	'https://forms.gle/omQxSWMUphiFaRzY6'
+	'https://www.surveycake.com/s/KXDyo',
+	'https://www.surveycake.com/s/lGoRy',
+	'https://www.surveycake.com/s/eGmR3',
+	'https://www.surveycake.com/s/bGmdd',
+	'https://www.surveycake.com/s/DLNXe',
+	'https://www.surveycake.com/s/oG0A2'
 ];
